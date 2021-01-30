@@ -5,7 +5,8 @@ Merge your csv output from OpenWRT CSV Output luci_statistics (you need to custo
 Lang: Python
 
 Instruction: Change path var to your plugin and name of input files by the plugin name, you are done!
-You can find picture in repository where I'm showing exact location of folders you need to pick one from :)
+You can find picture in repository where I'm showing exact location of my folders you need to pick one from :) 
+Your path will be different by your configuration in luci_statistics
 
 How to execute: 
 1. Install Python
